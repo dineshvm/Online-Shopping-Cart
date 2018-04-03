@@ -1,0 +1,40 @@
+[{
+    "productId":"100",
+    "productImage":"images/product.jpg",
+    "brandName":"ZEBRONICS",
+    "productName":"Speakers",
+    "details":"DAV-TZ145 5.1 2 Front Speakers",
+    "price":"1250"
+},
+{
+    "productId":"101",
+    "productImage":"images/product.jpg",
+    "brandName":"SONY",
+    "productName":"HeadPhones",
+    "details":"BassHeads 220 Wired Headset with Mic ",
+    "price":"850"
+},
+{
+    "productId":"102",
+    "productImage":"images/product.jpg",
+    "brandName":"SAMSUNG",
+    "productName":"Mobile Phones",
+    "details":"Iron Gray, 32 GB",
+    "price":"8999"
+},
+{
+    "productId":"103",
+    "productImage":"images/product.jpg",
+    "brandName":"APPLE",
+    "productName":"Charger",
+    "details":"iphone Charger",
+    "price":"2250"
+},
+{
+    "productId":"104",
+    "productImage":"images/product.jpg",
+    "brandName":"LENOVO",
+    "productName":"Laptop",
+    "details":"i3 5th gen laptop",
+    "price":"32250"
+}]

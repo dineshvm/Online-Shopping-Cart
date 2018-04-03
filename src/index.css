@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.productImage {
+  margin: 0 auto;
+  width:100px;
+}
+
+.productCard {
+  margin-bottom: 20px;
+}
+.buttonText {
+  margin:0 5px;
+}

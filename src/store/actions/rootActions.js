@@ -26,7 +26,7 @@ export const removeFromCart = productId => {
 }
 export const reduceProductQuantity = productId => {
   return {
-    type: constant.REMOVE_FROM_CART,
+    type: constant.REDUCE_QUANTITY,
     productId
   }
 }

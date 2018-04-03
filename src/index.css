@@ -6,6 +6,11 @@ body {
 
 .App-title {
   font-size: 1.5em;
+  text-align: center;
+  padding-top: 10px;
+}
+.left-pane-title {
+  padding-left: 14px;
 }
 
 .productImage {

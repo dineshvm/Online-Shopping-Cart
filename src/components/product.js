@@ -17,7 +17,7 @@ class Product extends Component {
     }
     return (
       <div className='productContainer'>
-        <h3>Products</h3>
+        <h3 className='left-pane-title'>Products</h3>
         <div className='container'>
           <div className='row'>
             {products.map(product => (

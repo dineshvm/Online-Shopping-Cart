@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import * as constant from '../constants/constant'
 
 const ProductCard = ({ item , Qty, inCart ,addClick, removeClick }) => {

@@ -9,7 +9,7 @@ const Cart = props => {
     return (
         <div>
             <h3>Shopping Cart Summary</h3> 
-            { totalItems > 0 && ([
+            { totalItems > 0 && products.length>0 && ([
                 <div>
                     <span className="cart__totalItems"> <strong>No Of Items:</strong> {totalItems} </span>
                     <span className="cart__totalPrice"> <strong>Total Price:</strong> {constant.CURRENCY}.{totalPrice} </span>

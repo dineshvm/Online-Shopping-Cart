@@ -4,9 +4,6 @@ import _ from 'lodash'
 import {getQuantityById} from '../shared/util'
 
 class Product extends Component {
-  constructor (props) {
-    super(props)
-  }
   componentWillMount () {
     this.props.getProducts()
   }
